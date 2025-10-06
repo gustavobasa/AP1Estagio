@@ -1,0 +1,38 @@
+2025-10-06 17:21:33,396 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-10-06 17:22:35,982 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-06 17:22:37,218 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.turmab:helpdeskturmab:0.0.1-SNAPSHOT @ C:\Users\Gustavo\Desktop\HelpDesk-main\HelpDesk-main\pom.xml.
+2025-10-06 17:22:38,279 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelpDesk-main/src/main/java
+2025-10-06 17:22:38,281 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelpDesk-main/src/main/resources
+2025-10-06 17:22:38,286 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelpDesk-main/src/main/resources
+2025-10-06 17:22:38,292 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelpDesk-main/src/test/java
+2025-10-06 17:22:38,293 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelpDesk-main/src/test/resources
+2025-10-06 17:22:39,799 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 2,00 sec, update config takes 1,00 sec 
+2025-10-06 17:22:40,391 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-10-06 17:22:40,394 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2025-10-06 17:22:40,405 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-10-06 17:22:40,415 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-10-06 17:22:40,415 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gustavo\Desktop\HelpDesk-main\HelpDesk-main\src\test\resources
+2025-10-06 17:28:53,000 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-10-06 17:28:53,002 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-10-06 17:28:53,004 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-10-06 17:28:53,010 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-10-06 17:28:53,010 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gustavo\Desktop\HelpDesk-main\HelpDesk-main\src\test\resources
+2025-10-06 17:28:59,932 [Worker-8: Launching HelpDesk-main - HelpdeskturmabApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-10-06 17:28:59,933 [Worker-8: Launching HelpDesk-main - HelpdeskturmabApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2025-10-06 17:28:59,936 [Worker-8: Launching HelpDesk-main - HelpdeskturmabApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-10-06 17:28:59,940 [Worker-8: Launching HelpDesk-main - HelpdeskturmabApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-10-06 17:28:59,940 [Worker-8: Launching HelpDesk-main - HelpdeskturmabApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gustavo\Desktop\HelpDesk-main\HelpDesk-main\src\test\resources
+2025-10-06 17:31:54,374 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-10-06 17:31:54,620 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.turmab:helpdeskturmab:0.0.1-SNAPSHOT @ C:\Users\Gustavo\Desktop\HelpDesk-main\HelpDesk-main\pom.xml.
+2025-10-06 17:31:55,150 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelpDesk-main/src/main/java
+2025-10-06 17:31:55,151 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelpDesk-main/src/main/resources
+2025-10-06 17:31:55,152 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelpDesk-main/src/main/resources
+2025-10-06 17:31:55,152 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelpDesk-main/src/test/java
+2025-10-06 17:31:55,153 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelpDesk-main/src/test/resources
+2025-10-06 17:31:55,416 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2025-10-06 17:31:55,886 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-10-06 17:31:55,887 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2025-10-06 17:31:55,898 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-10-06 17:31:55,906 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-10-06 17:31:55,906 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gustavo\Desktop\HelpDesk-main\HelpDesk-main\src\test\resources
+2025-10-06 17:32:40,966 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
